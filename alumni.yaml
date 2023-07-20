@@ -1,0 +1,76 @@
+alumni:
+  - name: "Tushar Malik"
+    achievements: "Backend Intern @Mercari, LFX'22 Intern, MLH Fellow"
+    batch: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/ditsuke/"
+      github: "https://github.com/ditsuke/"
+
+  - name: "Aakarsh MJ"
+    achievements: "GSoC'24 @Videolan, GSoC'23 @KDE"
+    batch: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/aakarsh-mj-9868a3242/"
+      github: "https://github.com/ChucklesDroid"
+
+  - name: "Vinayak Nayar"
+    achievements: "GSoC'23 @Sugarlabs"
+    batch: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/vinayak-nayar/"
+      github: "https://github.com/vinayaknayar"
+
+  - name: "Sagar Deep"
+    achievements: "Full Stack Dev"
+    batch: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/sagar-deep/"
+      github: "https://github.com/oceakun"
+
+  - name: "Achintya Singh"
+    achievements: "GSoC'24 @Videolan, Backend dev @Aftershoot"
+    batch: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/achintya-singh-4b4563200/"
+      github: "https://github.com/achintya-7"
+
+  - name: "Vipul Gupta"
+    achievements: "Product Owner @Balena, GSoC'18,19"
+    batch: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/vipulgupta2048/"
+      github: "https://github.com/vipulgupta2048/"
+
+  - name: "Dishant Sethi"
+    achievements: "Founder @Prodinit"
+    batch: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/dishantsethi/"
+      github: "https://github.com/dishantsethi/"
+
+  - name: "Venkatesh Chaturvedi"
+    achievements: "Support Engineer @Atlasssian, SIH'22 Winner"
+    batch: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/venkatesh-chaturvedi-a841201b8/"
+      github: "https://github.com/Blaster4385"
+
+  - name: "Anuvrat Parashar"
+    achievements: "Founder @Essentia.dev"
+    batch: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/anuvratparashar/"
+      github: "https://github.com/bhanuvrat"
+
+  - name: "Nikhil Maan"
+    achievements: "Developer and maintainer @Sympy, GSoC'19,20,21"
+    batch: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/sc0rpi0n101/"
+      github: "https://github.com/Sc0rpi0n101"
+
+  - name: "Aniket Maithani"
+    achievements: "CTO @GetPlus"
+    batch: ""
+    social:
+      linkedin: "https://www.linkedin.com/in/aniketmaithani/"
